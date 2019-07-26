@@ -2,4 +2,13 @@ I work as a volunteer in the **[Coursera's Global Translator Community](https://
 
 I have contributed to the translation of following courses:
 
-1. [Writing, Running, and Fixing Code in C](https://www.coursera.org/learn/writing-running-fixing-code).
+## 1. [Writing, Running, and Fixing Code in C](https://www.coursera.org/learn/writing-running-fixing-code).
+
+Co-workers:
+- Ty Zhang
+- 张梓愉
+- Yuqi Zhang
+- Zhang, Bo
+- Xiao Qu
+  
+
