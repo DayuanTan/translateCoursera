@@ -6,7 +6,7 @@ I have contributed to the translation of following courses:
 
 Translate project page: [Here](https://translate-coursera.org/new_gtc/app/#/app/project_detail/988e67bd9)
 
-Contributions: 2 classes.
+Contributions: **2 classes**.
 
 Co-workers:
 - Ty Zhang
